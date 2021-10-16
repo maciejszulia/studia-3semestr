@@ -9,5 +9,5 @@
 <br>
 
 >Jeszcze jedna dość obszerna porcja zadań na przypomnienie, przeważnie łatwiejszych od poprzednich i podobnych do zajęciowych, można zmierzyć się ze wszystkimi, ale ja zwracam szczególnie uwagę na zadania 5, 6, 9, 12, 13, 19, 20, 22, 27, 28, 30, 32, 33, 36, 38(to podobne do zajęciowych bardzo), 46, 47, 48, 51.
-> - 4. Prawdopodobieństwo warunkowe.pdf
+> - 4 Prawdopodobieństwo warunkowe.pdf
 <br>
